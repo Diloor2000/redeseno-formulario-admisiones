@@ -5,7 +5,6 @@
 
 ##  Datos del Proyecto
 * **Integrantes:** Diego Loor
-* **Materia:** Interacción Hombre-Computador / Diseño de Interfaces[cite: 1]
 * **Entregable:** Repositorio GitHub con diseño digital + README.md[cite: 1]
 
 ---
