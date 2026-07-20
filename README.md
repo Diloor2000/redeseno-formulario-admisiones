@@ -79,3 +79,4 @@ La siguiente tabla documenta la retroalimentación en tiempo real (*inline valid
 * **Instrucciones para visualizar el diseño:** Abrir el archivo `index.html` en cualquier navegador web[cite: 1].
 
 ![Captura del diseño](./assets/captura-diseño.png)
+![alt text](image.png)
