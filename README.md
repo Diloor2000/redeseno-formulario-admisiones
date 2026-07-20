@@ -78,5 +78,5 @@ La siguiente tabla documenta la retroalimentación en tiempo real (*inline valid
 * **Tecnología utilizada:** HTML5 + Tailwind CSS (Diseño Responsivo)[cite: 1].
 * **Instrucciones para visualizar el diseño:** Abrir el archivo `index.html` en cualquier navegador web[cite: 1].
 
-![Captura del diseño](./assets/captura-diseño.png)
+
 ![alt text](image.png)
